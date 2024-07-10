@@ -1,6 +1,6 @@
 [![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Carlos%20Oliver%27s%20GitHub%20Profile%20👨‍💻&width=800&height=400)](https://github.com/Akshay090/svg-banners)
 
-## :white_check_mark:**Welcome! 👋**
+## :white_check_mark: **Welcome! 👋**
 
 If you are reading these lines... welcome to my profile!
 
@@ -8,7 +8,7 @@ I am a **Data Scientist**, always looking for my next professional challenge.
 
 ---
 
-## <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/285/briefcase_1f4bc.png" width="30"/> **Experience**  💼
+## :white_check_mark: **Experience**  💼
 
 ### **SAMOO**
 **Integration of AI in a Mobile App**  📱  
@@ -34,7 +34,7 @@ I am a **Data Scientist**, always looking for my next professional challenge.
 
 ---
 
-## <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/285/graduation-cap_1f393.png" width="30"/> **Education**  🎓
+## :white_check_mark: **Education**  🎓
 
 ### **EDEM Escuela de Empresarios**
 **Master of Technology (MTech), Data Scientist**  
@@ -99,7 +99,7 @@ I am a **Data Scientist**, always looking for my next professional challenge.
 
 ---
 
-## <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/285/email_1f4e7.png" width="30"/> **Contact**  📬
+## :white_check_mark: **Contact**  📬
 
 Thank you for exploring my profile! If you have any questions or comments, please do not hesitate to contact me:
 
