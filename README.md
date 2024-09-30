@@ -4,7 +4,10 @@
 
 If you are reading these lines... welcome to my profile!
 
-I am a **Data Scientist**, always looking for my next professional challenge.
+I am a **Data Scientist**, with studies in Robotics and experience as a Project Manager. My analytical approach led me to the world of data, where I firmly believe that the best decisions are based on solid data. I have technical skills to execute complex projects and communicate results clearly.
+
+I am decisive and organized; For example, I developed a Machine Learning model that predicts delays in port merchandise, improving decision making. Additionally, I promote teamwork, considering it essential for the success of any project.
+ 
 
 ---
 
