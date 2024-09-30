@@ -8,7 +8,7 @@ I am a **Data Scientist**, always looking for my next professional challenge.
 
 ---
 
-## 💼 width="30"/> **Experience**  💼
+## 💼 **Experience**  💼
 
 ### **SAMOO**
 **Integration of AI in a Mobile App**  📱  
@@ -34,7 +34,7 @@ I am a **Data Scientist**, always looking for my next professional challenge.
 
 ---
 
-## <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/285/graduation-cap_1f393.png" width="30"/> **Education**  🎓
+## 🎓 **Education**  🎓
 
 ### **EDEM Escuela de Empresarios**
 **Master of Technology (MTech), Data Scientist**  
@@ -99,7 +99,7 @@ I am a **Data Scientist**, always looking for my next professional challenge.
 
 ---
 
-## <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/285/email_1f4e7.png" width="30"/> **Contact**  📬
+## 📬 **Contact**  📬
 
 Thank you for exploring my profile! If you have any questions or comments, please do not hesitate to contact me:
 
