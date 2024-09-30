@@ -8,7 +8,7 @@ I am a **Data Scientist**, always looking for my next professional challenge.
 
 ---
 
-## <img src="https://emojipedia.org/check-mark-button" width="30"/> **Experience**  💼
+## 💼 width="30"/> **Experience**  💼
 
 ### **SAMOO**
 **Integration of AI in a Mobile App**  📱  
