@@ -1,6 +1,6 @@
 [![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Carlos%20Oliver%27s%20GitHub%20Profile%20👨‍💻&width=800&height=400)](https://github.com/Akshay090/svg-banners)
 
-## <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/285/waving-hand-sign_emoji-modifier-fitzpatrick-type-1-2_1f44b-1f3fb_1f3fb.png" width="30"/> **Welcome! 👋**
+## 👋**Welcome! 👋**
 
 If you are reading these lines... welcome to my profile!
 
