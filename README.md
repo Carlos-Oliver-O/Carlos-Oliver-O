@@ -1,4 +1,4 @@
-[![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=Carlos%20Oliver's%20Profile👨‍💻&width=1000&height=400&textSize=50)](https://github.com/Akshay090/svg-banners)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=Carlos%20Oliver's%20Pro👨‍💻&width=800&height=400&textSize=40)](https://github.com/Akshay090/svg-banners)
 ## 👋**Welcome! 👋**
 
 If you are reading these lines... welcome to my profile!
