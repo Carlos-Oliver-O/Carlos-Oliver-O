@@ -10,7 +10,7 @@
 ---
 
 ### 👨💻 **About Me**  
-Data Engineer & Scientist passionate about building scalable data solutions. Expertise in **Machine Learning**, **Cloud Platforms (GCP)**, and **Automation**. Currently pursuing a Master’s in Big Data & Cloud while contributing to impactful projects.
+Data Engineer & Scientist passionate about building scalable data solutions. Expertise in **Machine Learning**, **Cloud Platforms (GCP, AWS, Azure)**, and **Automation**. Currently pursuing a Master’s in Big Data & Cloud while contributing to impactful projects.
 
 ---
 
@@ -29,19 +29,22 @@ Data Engineer & Scientist passionate about building scalable data solutions. Exp
 ![Pandas](https://img.shields.io/badge/Pandas-Advanced-yellow?logo=pandas)  
 
 #### **Cloud & DevOps**  
-![GCP](https://img.shields.io/badge/Google_Cloud-Intermediate-blue?logo=googlecloud)  
+![GCP](https://img.shields.io/badge/Google_Cloud-Intermediate-blue?logo=googlecloud)
+![AWS](https://img.shields.io/badge/AWS-Intermediate-orange?logo=amazonaws)  
+![Azure](https://img.shields.io/badge/Azure-Intermediate-blue?logo=microsoftazure)  
 ![APIs](https://img.shields.io/badge/APIs-Intermediate-orange?logo=fastapi)  
+
 
 ---
 
 ### 📚 **Education**  
 - **Máster en Big Data y Cloud**  
   `EDEM` | 2024–2025 (Ongoing)  
-  - Focus: GCP, ML, Data Pipelines  
+  - Focus: GCP, AWS, Azure, Devops, Apache Kafka, DBT, Data Pipelines  
 
 - **Bootcamp Data Science & Analysis (480h)**  
   `EDEM & The Bridge` | 2024  
-  - Tools: Python, SQL, NLP  
+  - Tools: Python, SQL, ML, Deep Learning, NLP  
 
 - **Project Manager Certification (CEPJM)**  
   `ESIC Business School` | 2020  
@@ -66,7 +69,7 @@ Data Engineer & Scientist passionate about building scalable data solutions. Exp
 ---
 
 ### 🏆 **Hackathons & Certifications**   
-- **Google x Cofares**: Built RAG system for parapharmacy using NLP.  
+- **Google x Cofares**: Built RAG system for parapharmacy using GCP.  
 - **UniversityHack**: Retail sales prediction model (Scikit-Learn).  
 
 ---
