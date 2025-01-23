@@ -65,8 +65,7 @@ Data Engineer & Scientist passionate about building scalable data solutions. Exp
 
 ---
 
-### 🏆 **Hackathons & Certifications**  
-- **Google Career Certificates**: Data Engineering, Big Data  
+### 🏆 **Hackathons & Certifications**   
 - **Google x Cofares**: Built RAG system for parapharmacy using NLP.  
 - **UniversityHack**: Retail sales prediction model (Scikit-Learn).  
 
