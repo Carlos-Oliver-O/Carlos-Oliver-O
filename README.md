@@ -1,114 +1,77 @@
 [![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=Carlos%20Oliver👨‍💻&width=800&height=400)](https://github.com/Akshay090/svg-banners)
-## 👋**Welcome! 👋**
 
-If you are reading these lines... welcome to my profile!
+# Carlos Oliver  
+**`Data Engineer & Scientist`**  
 
-I am a **Data Scientist**, with studies in Robotics and experience as a Project Manager. My analytical approach led me to the world of data, where I firmly believe that the best decisions are based on solid data. I have technical skills to execute complex projects and communicate results clearly.
-
-I am decisive and organized; For example, I developed a Machine Learning model that predicts delays in port merchandise, improving decision making. Additionally, I promote teamwork, considering it essential for the success of any project.
- 
-
----
-
-## 💼 **Experience**  💼
-
-### **SAMOO**
-**Integration of AI in a Mobile App**  📱  
-*May 2024 - July 2024*  
-*Valencia, Spain*
-
-- **📱 Mobile App Development:** Developed a mobile application to schedule sessions, view event participants, and access available presentations.
-- **🤝 Networking Recommendation Model:** Integrated a recommendation model to enhance networking by displaying participants with similar interests.
-- **📧 Presentation Summarizer and Automated Emails:** Automated the generation of presentation summaries and emails with links to mentioned products.
-- **🍲 Food Recommendation Model:** Personalized menus based on users' allergies and diets to ensure suitable food options.
-
-### **Xnova Internacional**
-**EDA (Exploratory Data Analysis) and Predictive Model**  📊  
-*April 2024 - June 2024*  
-*Valencia, Spain*
-
-- **🔍 Data Extraction:** Obtained necessary data from a JSON database.
-- **📊 Data Loading:** Read data from a CSV file using pandas.
-- **🔍 Initial Exploration:** Visualized initial rows and performed basic descriptive analysis.
-- **🧹 Data Cleaning:** Identified and handled missing, duplicate, and erroneous values.
-- **📈 Exploratory Analysis:** Analyzed delay distributions, variable relationships, and trend visualizations.
-- **🤖 Predictive Modeling:** Built a Machine Learning model to predict delays in three intervals: 0-10 days, 10-20 days, and more than 20 days.
+[![Email](https://img.shields.io/badge/Email-carlosoliver.coo%40gmail.com-red?style=flat&logo=gmail)](mailto:carlosoliver.coo@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Carlos_Oliver-blue?style=flat&logo=linkedin)](https://linkedin.com/in/carlos-oliver)
+[![Location](https://img.shields.io/badge/Location-Valencia,%20Spain-green?style=flat&logo=map)]()
 
 ---
 
-## 🎓 **Education**  🎓
-
-### **EDEM Escuela de Empresarios**
-**Master of Technology (MTech), Data Scientist**  
-*Feb 2024 - Jul 2024*
-
-- **Master in Data Science, EDEM - Business School**
-  - 500 hours
-  - EDEM, linked to Lanzadera, offers a Master in Data Science focusing on Python, SQL, Machine Learning, Deep Learning, Data Analysis, Google Cloud and more... The program emphasizes data analytics, machine learning, and visualization skills, preparing students for real-world business challenges.
-      - Python
-    - Data Analysis
-      - Web Scraping
-      - Exploratory Analysis
-      - Cleaning Data
-      - Data Transformation
-      - Statistical Analysis
-    - Data Visualization
-      - Looker, PowerBI
-      - Seaborn, Plotly
-      - Matplotlib
-    - Machine Learning
-      - Scikit-Learn
-      - Tensorflow/Keras
-      - OpenCV
-      - Deep Learning
-    - Databases
-      - SQL
-      - PostgreSQL
-      - MongoDB
-      - MySQL
-    - API Hosting
-      - AWS
-      - Docker
-      - Flask
-      - API-REST
-    - Big Data
-      - Pyspark
-
-
-### **Additional Education**
-- **ESIC Business & Marketing School**
-  - *2020 - 2020*
-  - Specialized Course in Project Management
-
-- **TheMPVSolarReference**
-  - *Oct 2022 - Jun 2023*
-  - Master of Engineering (MEng), Solar Energy Technology/Technician
-
-- **Universitat Politècnica de València (UPV)**
-  - *Apr 2022 - Aug 2022*
-  - Course in Photovoltaic Solar Energy, Solar Energy Technology/Technician
-
-- **Universidad Laboral de Cheste**
-  - *2018 - 2020*
-  - Higher Degree, Industrial Automation and Robotics
-  - Activities and groups: Technical documentation, PLC programming, robot programming, industrial communications, pneumatics, hydraulics, and electricity
-
-- **Faitanar FP**
-  - *2016 - 2018*
-  - Vocational Training, Electrical and Automated Systems
+### 👨💻 **About Me**  
+Data Engineer & Scientist passionate about building scalable data solutions. Expertise in **Machine Learning**, **Cloud Platforms (GCP)**, and **Automation**. Currently pursuing a Master’s in Big Data & Cloud while contributing to impactful projects.
 
 ---
 
+### 🛠️ **Skills**  
+
+#### **Programming & Tools**  
+![Python](https://img.shields.io/badge/Python-Advanced-blue?logo=python)  
+![SQL](https://img.shields.io/badge/SQL-Advanced-orange?logo=postgresql)  
+![PySpark](https://img.shields.io/badge/PySpark-Intermediate-yellow?logo=apachespark)  
+![Git](https://img.shields.io/badge/Git-Intermediate-red?logo=git)  
+
+#### **Data Science & ML**  
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Advanced-blue?logo=scikitlearn)  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-Intermediate-orange?logo=tensorflow)  
+![NLP](https://img.shields.io/badge/NLP-Intermediate-green)  
+![Pandas](https://img.shields.io/badge/Pandas-Advanced-yellow?logo=pandas)  
+
+#### **Cloud & DevOps**  
+![GCP](https://img.shields.io/badge/Google_Cloud-Intermediate-blue?logo=googlecloud)  
+![APIs](https://img.shields.io/badge/APIs-Intermediate-orange?logo=fastapi)  
+
 ---
 
-## 📬 **Contact**  📬
+### 📚 **Education**  
+- **Máster en Big Data y Cloud**  
+  `EDEM` | 2024–2025 (Ongoing)  
+  - Focus: GCP, ML, Data Pipelines  
 
-Thank you for exploring my profile! If you have any questions or comments, please do not hesitate to contact me:
+- **Bootcamp Data Science & Analysis (480h)**  
+  `EDEM & The Bridge` | 2024  
+  - Tools: Python, SQL, NLP  
 
-- **Email:** [Gmail](mailto:carlosoliver.coo@gmail.com)
-- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/carlos-oliver/)
-- **GitHub:** [GitHub Profile](https://github.com/Carlos-Oliver-O)
+- **Project Manager Certification (CEPJM)**  
+  `ESIC Business School` | 2020  
 
 ---
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourgithub&layout=compact)
+### 💻 **Experience**  
+
+#### **Data Science Specialist** @ SAMOO S.L  
+`2023–Present`  
+- Built event app with **GCP-based database** and **ML recommendation model** (92% accuracy).  
+- Automated summaries using **NLP**, saving 15+ hours/week.  
+
+#### **Data Science Specialist** @ Xnova Internacional S.L  
+`2022–2023`  
+- Developed ML model to predict port delays, reducing costs by **10%**.  
+
+#### **Project Manager & Data Analyst** @ Linkener S.L  
+`2020–2022`  
+- Led telemetry team, improving operational efficiency by **25%**.  
+
+---
+
+### 🏆 **Hackathons & Certifications**  
+- **Google Career Certificates**: Data Engineering, Big Data  
+- **Google x Cofares**: Built RAG system for parapharmacy using NLP.  
+- **UniversityHack**: Retail sales prediction model (Scikit-Learn).  
+
+---
+
+### 🌐 **Languages**  
+- **Spanish & Valenciano**: Native  
+- **English**: Professional (C1)  
