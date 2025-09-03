@@ -1,72 +1,81 @@
 [![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=Carlos%20Oliver👨‍💻&width=800&height=400)](https://github.com/Akshay090/svg-banners)
 
-# Carlos Oliver  
-**`Data Engineer & Scientist`**  
+# 👋 Hi, I'm Carlos Oliver  
 
-[![Email](https://img.shields.io/badge/Email-carlosoliver.coo%40gmail.com-red?style=flat&logo=gmail)](mailto:carlosoliver.coo@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Carlos_Oliver-blue?style=flat&logo=linkedin)](https://linkedin.com/in/carlos-oliver)
-[![Location](https://img.shields.io/badge/Location-Valencia,%20Spain-green?style=flat&logo=map)]()
+💻 **Data & ML Engineer** with experience building **scalable data pipelines** and **production-ready ML models** in **GCP** and **AWS**.  
+I enjoy working at the intersection of **Data Engineering** and **Artificial Intelligence**, applying cloud-native tools to create value from data.  
 
 ---
 
-### 👨💻 **About Me**  
-Data Engineer & Scientist passionate about building scalable data solutions. Expertise in **Machine Learning**, **Cloud Platforms (GCP, AWS, Azure)**, and **Automation**. Currently pursuing a Master’s in Big Data & Cloud while contributing to impactful projects.
+## 🚀 About Me  
+- 🔹 Currently working as **Data Engineer at GFT (Client: Deutsche Bank)**  
+- 🔹 Skilled in **real-time data processing**, **machine learning**, and **cloud orchestration**  
+- 🔹 Passionate about **AI-driven products** and **MLOps best practices**  
+- 🔹 Hackathon enthusiast 🏆 – Winner of **UniversityHack** and finalist in **Google x Cofares**  
 
 ---
 
-### 🛠️ **Skills**  
+## 🛠️ Tech Stack  
 
-#### **Programming & Tools**  
-![Python](https://img.shields.io/badge/Python-Advanced-blue?logo=python)  
-![SQL](https://img.shields.io/badge/SQL-Advanced-orange?logo=postgresql)  
-![PySpark](https://img.shields.io/badge/PySpark-Intermediate-yellow?logo=apachespark)  
-![Git](https://img.shields.io/badge/Git-Intermediate-red?logo=git)  
+**Languages & Frameworks**  
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-003B57?logo=postgresql&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)  
+![Scala](https://img.shields.io/badge/Scala-DC322F?logo=scala&logoColor=white)  
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?logo=apachespark&logoColor=white)  
 
-#### **Data Science & ML**  
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Advanced-blue?logo=scikitlearn)  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-Intermediate-orange?logo=tensorflow)  
-![NLP](https://img.shields.io/badge/NLP-Intermediate-green)  
-![Pandas](https://img.shields.io/badge/Pandas-Advanced-yellow?logo=pandas)  
+**AI & ML**  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)  
+![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white)  
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikitlearn&logoColor=white)  
+![FastAI](https://img.shields.io/badge/FastAI-0081A5?logo=fastapi&logoColor=white)  
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?logo=opencv&logoColor=white)  
+![NLP](https://img.shields.io/badge/NLP-4B8BBE?logo=python&logoColor=white)  
+![Embeddings](https://img.shields.io/badge/Embeddings-006699?logo=ai&logoColor=white)  
 
-#### **Cloud & DevOps**  
-![GCP](https://img.shields.io/badge/Google_Cloud-Intermediate-blue?logo=googlecloud)
-![AWS](https://img.shields.io/badge/AWS-Intermediate-orange?logo=amazonaws)  
-![Azure](https://img.shields.io/badge/Azure-Intermediate-blue?logo=microsoftazure)  
-![APIs](https://img.shields.io/badge/APIs-Intermediate-orange?logo=fastapi)  
+**Data Engineering**  
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?logo=apachekafka&logoColor=white)  
+![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?logo=apacheairflow&logoColor=white)  
+![dbt](https://img.shields.io/badge/dbt-FF694B?logo=dbt&logoColor=white)  
+![REST APIs](https://img.shields.io/badge/REST-02569B?logo=fastapi&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL/NoSQL-CC2927?logo=databricks&logoColor=white)  
 
+**Cloud & DevOps**  
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?logo=googlecloud&logoColor=white)  
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)  
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)  
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)  
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)  
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)  
+
+---
+
+## 📂 Featured Projects  
+- ⚡ **Predictive ML Model** for shipping delays (**95% accuracy**)  
+- 📊 **Recommendation System** using embeddings and NLP  
+- ☁️ **Streaming Pipelines** with Kafka, Spark, Dataflow, and Airflow  
+- 🤖 **Image Classification & NLP Automation** (FastAI, TensorFlow)  
 
 ---
 
-### 📚 **Education**  
-- **Máster en Big Data y Cloud**  
-  `EDEM` | 2024–2025 (Ongoing)  
-  - Focus: GCP, AWS, Azure, Devops, Apache Kafka, DBT, Data Pipelines  
-
-- **Bootcamp Data Science & Analysis (480h)**  
-  `EDEM & The Bridge` | 2024  
-  - Tools: Python, SQL, ML, Deep Learning, NLP  
-
-- **Project Manager Certification (CEPJM)**  
-  `ESIC Business School` | 2020  
+## 🎓 Education  
+- 🎓 **Master’s in Big Data & Cloud** – *EDEM | The Bridge (2024–2025)*  
+- 🎓 **Bootcamp in Data Science & Analysis (480h)** – *ESIC Business School (2020)*  
+- 🎓 **Industrial Automation & Robotics** – *Cheste (2016–2020)*  
 
 ---
 
-### 💻 **Experience**  
-
-#### **Data Science Specialist** @ SAMOO S.L  
-`2023–Present`  
-- Built event app with **GCP-based database** and **ML recommendation model** (92% accuracy).  
-- Automated summaries using **NLP**, saving 15+ hours/week.  
-
-#### **Data Science Specialist** @ Xnova Internacional S.L  
-`2022–2023`  
-- Developed ML model to predict port delays, reducing costs by **10%**.  
-
-#### **Project Manager & Data Analyst** @ Linkener S.L  
-`2020–2022`  
-- Led telemetry team, improving operational efficiency by **25%**.  
+## 🌍 Languages  
+- 🇬🇧 English – Professional Proficiency  
+- 🇪🇸 Spanish – Native  
+- 🏴 Catalan – Native  
 
 ---
+
+## 📫 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-oliver/)  
+📧 **carlosoliver.coo@gmail.com**  
 
 ### 🏆 **Hackathons & Certifications**   
 - **Google x Cofares**: Built RAG system for parapharmacy using GCP.  
@@ -76,4 +85,4 @@ Data Engineer & Scientist passionate about building scalable data solutions. Exp
 
 ### 🌐 **Languages**  
 - **Spanish & Valenciano**: Native  
-- **English**: Professional (C1)  
+- **English**: Professional proficiency  
