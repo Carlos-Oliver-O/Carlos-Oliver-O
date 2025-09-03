@@ -11,7 +11,7 @@ I enjoy working at the intersection of **Data Engineering** and **Artificial Int
 - 🔹 Currently working as **Data Engineer at GFT (Client: Deutsche Bank)**  
 - 🔹 Skilled in **real-time data processing**, **machine learning**, and **cloud orchestration**  
 - 🔹 Passionate about **AI-driven products** and **MLOps best practices**  
-- 🔹 Hackathon enthusiast 🏆 – Winner of **UniversityHack** and finalist in **Google x Cofares**  
+- 🔹 Hackathon enthusiast 🏆 – Winner of **Google x Cofares** and finalist in **UniversityHack**
 
 ---
 
